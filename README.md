@@ -1,6 +1,6 @@
 # Efficiency Study
 
-Code availability for the study testing whether efficiency is a moral foundation
+Code availability for a study testing whether efficiency is a moral foundation. This was conducted by Andrew Wesel at UCSB's Summer Research Academies. Advised by Musa Malik, Brittany Wheeler, and Sungbin Youk.
 
 This only has the stuff for study 2. In study 1, we only used established methods and statistical tests so the code is uninteresting.
 
